@@ -72,6 +72,10 @@ textarea {
 		width: 200px;
 		height: 70px;
 	}
+
+	textarea {
+		height: 400px;
+	}
 }
 
 /* Responsive Design */
@@ -93,7 +97,7 @@ textarea {
 	}
 
 	textarea {
-		font-size: 12px;
+		font-size: 18px;
 		width: 400px;
 		height: 400px;
 	}
